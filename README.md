@@ -36,6 +36,6 @@ Este proyecto simula un sistema de monitoreo en tiempo real para el área de man
 ## 🚀 Cómo ejecutar este proyecto
 1. Clona este repositorio.
 2. Ejecuta el script `create_database_tabla_sensores.sql` en tu instancia local de MySQL.
-3. Abre el archivo `mantenimiento_predictivo.pbix` en Power BI Desktop y actualiza las credenciales de conexión a tu servidor local.
+3. Abre el archivo `dashboard_sensores.pbix` en Power BI Desktop y actualiza las credenciales de conexión a tu servidor local.
 
 ![Dashboard Mantenimiento](Dashboard_sensores.png)
